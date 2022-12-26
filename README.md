@@ -9,8 +9,8 @@ You need
 
 Go to the downloaded folder
 
-# cd polkadot_metrics
+> cd polkadot_metrics
 
 And run Docker - compose
 
-# docker-compose up -d
+> docker-compose up -d
