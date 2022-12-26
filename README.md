@@ -5,12 +5,12 @@ Then this repository will help you quickly set up Prometheus + Grafana monitorin
 
 You need
 
-git clone https://github.com/SiLa4-Cyber/polkadot_metrics.git
+# git clone https://github.com/SiLa4-Cyber/polkadot_metrics.git
 
 Go to the downloaded folder
 
-cd polkadot_metrics
+# cd polkadot_metrics
 
 And run Docker - compose
 
-docker-compose up -d
+# docker-compose up -d
