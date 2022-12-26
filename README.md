@@ -5,7 +5,7 @@ Then this repository will help you quickly set up Prometheus + Grafana monitorin
 
 You need
 
-# git clone https://github.com/SiLa4-Cyber/polkadot_metrics.git
+> git clone https://github.com/SiLa4-Cyber/polkadot_metrics.git
 
 Go to the downloaded folder
 
